@@ -21,6 +21,9 @@ it to what we have stored!
 
 and bam, logged in secure, and if we get hacked ppl cant get passwords!
 
+(on another note, your actually not really fully secure if you hash
+your passwords, you should also add a salt to make it secure)
+
 ## example
 
 are ya running linux? (yay!!!)
