@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# welcome to the programming club!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+currently a work in progress haha
 
-## Commands
+## what do we do?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+pretty much anything related to computers, everyone works
+in their own project (or can choose "guided" projects if they
+dont have an idea)  and then in the end they do a demo of what
+they did!
 
-## Project layout
+## schedule
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+every thrusday from 13h-14h
+in room R105
