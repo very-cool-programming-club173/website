@@ -39,3 +39,10 @@ you can also use sha512sum instead
 ❯ echo -n "wow" | sha512sum
 74c0f1e8aee1f831980e96d0a7772a05f4945500d4cbdaf19817c983b4404e7d949e1c90fcdbeacb6efc6f334fd22eb706f94b9ee45c4b9d6bad6e0a79c77cfd  -
 ```
+
+you can also get the sha256/512sum of a file using this command
+
+```sh
+❯ sha256sum example_file
+7c2bf6ba263ba149a2885847a9f7186e0d7af58faae3e01f2e69a7465f7cfecc  -
+```
