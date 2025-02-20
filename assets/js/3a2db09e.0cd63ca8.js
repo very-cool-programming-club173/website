@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprogramming_club_website=self.webpackChunkprogramming_club_website||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"club","permalink":"/blog/tags/club","description":"information about the club","count":1}]}')}}]);

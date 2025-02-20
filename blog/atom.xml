@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/blog</id>
+    <title>programming club Blog</title>
+    <updated>2025-02-20T07:26:15.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <subtitle>programming club Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <updated>2025-02-20T07:26:15.000Z</updated>
+        <summary type="html"><![CDATA[welcome to the club blog!]]></summary>
+        <content type="html"><![CDATA[<p>welcome to the club blog!</p>
+<!-- -->
+<p>here we will post what happens every meeting!</p>
+<p>i mean im not sure, we'll see, still a work in progress</p>]]></content>
+        <author>
+            <name>Hugo</name>
+        </author>
+        <category label="club" term="club"/>
+    </entry>
+</feed>

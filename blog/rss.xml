@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>programming club Blog</title>
+        <link>https://your-docusaurus-site.example.com/blog</link>
+        <description>programming club Blog</description>
+        <lastBuildDate>Thu, 20 Feb 2025 07:26:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
+            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
+            <pubDate>Thu, 20 Feb 2025 07:26:15 GMT</pubDate>
+            <description><![CDATA[welcome to the club blog!]]></description>
+            <content:encoded><![CDATA[<p>welcome to the club blog!</p>
+<!-- -->
+<p>here we will post what happens every meeting!</p>
+<p>i mean im not sure, we'll see, still a work in progress</p>]]></content:encoded>
+            <category>club</category>
+        </item>
+    </channel>
+</rss>
