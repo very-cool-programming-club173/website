@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://very-cool-programming-club173.github.io/website/blog</id>
     <title>programming club Blog</title>
     <updated>2025-02-20T07:26:15.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://very-cool-programming-club173.github.io/website/blog"/>
     <subtitle>programming club Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
-        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <id>https://very-cool-programming-club173.github.io/website/blog/welcome</id>
+        <link href="https://very-cool-programming-club173.github.io/website/blog/welcome"/>
         <updated>2025-02-20T07:26:15.000Z</updated>
         <summary type="html"><![CDATA[welcome to the club blog!]]></summary>
         <content type="html"><![CDATA[<p>welcome to the club blog!</p>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprogramming_club_website=self.webpackChunkprogramming_club_website||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Hugo","page":{"permalink":"/blog/authors/hugo"},"key":"hugo","count":1}]}')}}]);
