@@ -16,9 +16,6 @@ is to answer the question:
 this is the key to solve this challenge
 now this does sound fancy and complex, but just focus on what you understand.
 
-(for example, you can discard the commit part)
+(for example, you can discard the commit part, or look up what it means)
 
-theres also a nice tutorial on how to search on the internet
-with this blog post:
-https://www.jayden295.rocks/blog/post/2025/how-to-search-on-the-internet/
-so that can help
+btw, you can also search how to search on the internet! (thats a mouthful)
